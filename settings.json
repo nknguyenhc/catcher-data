@@ -1,7 +1,7 @@
 {
-  "openPhases" : ["phaseTeamResponse"],
+  "openPhases" : ["phaseTesterResponse"],
   "phaseBugReporting": "catcher-bugreporting",
   "phaseTeamResponse": "catcher-teamresponse",
-  "phaseTesterResponse": "catcher-testerresponse",
+  "phaseTesterResponse": "catcher-bugreporting",
   "phaseModeration": "catcher-moderation"
 }
